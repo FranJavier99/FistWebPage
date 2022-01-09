@@ -1,0 +1,51 @@
+*{
+	color: white;
+}
+body{
+	font-family: 'Roboto Mono', monospace;
+	background-color: #606060;
+}
+header{
+	background-color: #202020;
+	padding: 1em 0em 2em 0em;
+}
+header nav div h1{
+	text-shadow: 0.1em 0.1em 0.5em white;
+	text-align: center;
+}
+header nav div p{
+	text-shadow: 0.1em 0.1em 0.5em white;
+	text-align: center;
+}
+main{
+	width: 89%;
+	margin: 0 auto;
+}
+
+main div h2{
+	text-align: center;
+	margin: 1em 0em;
+}
+
+section{
+	background-color: #202020;
+}
+
+section h2{
+	padding: 1.5em;
+}
+
+section p{
+	padding: 1.5em;
+}
+
+footer {
+	background-color: #202020;
+	padding: 0.5em 0em 0.5em 0em;
+}
+ footer p{
+ 	text-align: center;
+ }
+ footer p a{
+
+ }
